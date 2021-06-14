@@ -1,8 +1,8 @@
 # Pewlett-Hackard-Analysis Challenges
 ## Overview of the analysis
-  This project helps prepare Bobby's manager for the "silver tsunami" as many current employees reach retirement age.
+  This project applied pgAdmin and SQL languages to produce data which determine the number of retiring employees per title and identify eligible employees to participate in a mentorship program. 
 ### The purpose
-  The purpose is to determine the number of retiring employees per title and identify eligible employees to participate in a mentorship program. 
+  The purpose is to help prepare Bobby's manager for the "silver tsunami" as many current employees reach retirement age.
 ## Results:
   There are four significant points from the two analysis deliverables: 
   
